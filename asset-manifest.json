@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Olifer-Art/static/css/main.5a98e39c.css",
-    "main.js": "/Olifer-Art/static/js/main.3aea53f6.js",
+    "main.js": "/Olifer-Art/static/js/main.61c6bd76.js",
     "static/js/787.28cb0dcd.chunk.js": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js",
     "static/media/foto.png": "/Olifer-Art/static/media/foto.01fa779dcc3733b3d460.png",
     "static/media/logo.png": "/Olifer-Art/static/media/logo.f2124bd0ce18cf227ad0.png",
@@ -16,11 +16,11 @@
     "static/media/close.png": "/Olifer-Art/static/media/close.89e01be2e7e9eeec4a59.png",
     "index.html": "/Olifer-Art/index.html",
     "main.5a98e39c.css.map": "/Olifer-Art/static/css/main.5a98e39c.css.map",
-    "main.3aea53f6.js.map": "/Olifer-Art/static/js/main.3aea53f6.js.map",
+    "main.61c6bd76.js.map": "/Olifer-Art/static/js/main.61c6bd76.js.map",
     "787.28cb0dcd.chunk.js.map": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a98e39c.css",
-    "static/js/main.3aea53f6.js"
+    "static/js/main.61c6bd76.js"
   ]
 }
