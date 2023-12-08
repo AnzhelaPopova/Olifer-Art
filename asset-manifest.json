@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Olifer-Art/StartPage/static/css/main.3380f188.css",
-    "main.js": "/Olifer-Art/StartPage/static/js/main.2d2031f2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Olifer-Art/StartPage/static/js/787.28cb0dcd.chunk.js",
-    "static/media/foto.png": "/Olifer-Art/StartPage/static/media/foto.01fa779dcc3733b3d460.png",
-    "static/media/logo.png": "/Olifer-Art/StartPage/static/media/logo.f2124bd0ce18cf227ad0.png",
-    "static/media/Calibri_bold.ttf": "/Olifer-Art/StartPage/static/media/Calibri_bold.952f1ae64afe47a25173.ttf",
-    "static/media/Inter-Bold.ttf": "/Olifer-Art/StartPage/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
-    "static/media/Inter-SemiBold.ttf": "/Olifer-Art/StartPage/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
-    "static/media/Inter-Regular.ttf": "/Olifer-Art/StartPage/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
-    "static/media/fon2.jpg": "/Olifer-Art/StartPage/static/media/fon2.3d45b16cc99e833f8126.jpg",
-    "static/media/fon3.jpg": "/Olifer-Art/StartPage/static/media/fon3.cce0380bf1a14273c13e.jpg",
-    "static/media/Nunito-Regular.ttf": "/Olifer-Art/StartPage/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
-    "static/media/map.png": "/Olifer-Art/StartPage/static/media/map.7c0ca79fe49e88bcdb44.png",
-    "static/media/close.png": "/Olifer-Art/StartPage/static/media/close.89e01be2e7e9eeec4a59.png",
-    "index.html": "/Olifer-Art/StartPage/index.html",
-    "main.3380f188.css.map": "/Olifer-Art/StartPage/static/css/main.3380f188.css.map",
-    "main.2d2031f2.js.map": "/Olifer-Art/StartPage/static/js/main.2d2031f2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Olifer-Art/StartPage/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Olifer-Art/static/css/main.63244f8e.css",
+    "main.js": "/Olifer-Art/static/js/main.97e10dc8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js",
+    "static/media/foto.png": "/Olifer-Art/static/media/foto.01fa779dcc3733b3d460.png",
+    "static/media/logo.png": "/Olifer-Art/static/media/logo.f2124bd0ce18cf227ad0.png",
+    "static/media/Calibri_bold.ttf": "/Olifer-Art/static/media/Calibri_bold.952f1ae64afe47a25173.ttf",
+    "static/media/Inter-Bold.ttf": "/Olifer-Art/static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "/Olifer-Art/static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Regular.ttf": "/Olifer-Art/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/fon2.jpg": "/Olifer-Art/static/media/fon2.3d45b16cc99e833f8126.jpg",
+    "static/media/fon3.jpg": "/Olifer-Art/static/media/fon3.cce0380bf1a14273c13e.jpg",
+    "static/media/Nunito-Regular.ttf": "/Olifer-Art/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/map.png": "/Olifer-Art/static/media/map.7c0ca79fe49e88bcdb44.png",
+    "static/media/close.png": "/Olifer-Art/static/media/close.89e01be2e7e9eeec4a59.png",
+    "index.html": "/Olifer-Art/index.html",
+    "main.63244f8e.css.map": "/Olifer-Art/static/css/main.63244f8e.css.map",
+    "main.97e10dc8.js.map": "/Olifer-Art/static/js/main.97e10dc8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3380f188.css",
-    "static/js/main.2d2031f2.js"
+    "static/css/main.63244f8e.css",
+    "static/js/main.97e10dc8.js"
   ]
 }
