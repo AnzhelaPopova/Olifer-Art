@@ -1,0 +1,8 @@
+@import '../../assets/variables.scss';
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(60deg, $basic-color, $main-color);
+    height: 50px;
+}

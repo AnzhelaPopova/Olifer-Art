@@ -1,0 +1,57 @@
+@import '../../assets/variables.scss';
+
+.card {
+    margin: 20px 1px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid $basic-color;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    & a button {
+        height: 50px;
+        width: 100px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        align-items: end;
+
+        &:hover {
+            height: 55px;
+            width: 105px;
+            background-color: $basic-color;
+            font-size: 20px;
+        }
+    }
+
+    &__description {
+        padding-bottom: 10px;
+    }
+}
+
+.card-name {
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+    margin: 1px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.blue-card .card-name {
+    background-color: rgb(33, 156, 170);
+}
+
+.green-card .card-name {
+    background-color: rgb(31, 136, 114);
+}
+
+.red-card .card-name {
+    background-color: rgb(196, 85, 78);
+}
+
+.black-card .card-name {
+    background-color: rgb(40, 46, 55);
+}

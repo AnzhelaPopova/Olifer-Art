@@ -1,0 +1,113 @@
+@import '../../assets/variables.scss';
+
+@media screen and (min-width: 769px) {
+  .cardHeader__mbl {
+    display: none;
+  }
+
+  .img_logo {
+    margin: auto;
+  }
+
+  .cardHeader__desktop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(60deg, $basic-color, $main-color);
+    z-index: 100;
+    font-size: 16px;
+    color: rgb(91, 89, 89);
+
+    & .logo {
+      height: 50px;
+      cursor: pointer;
+    }
+
+    & a {
+      text-decoration: none;
+    }
+
+    & ul {
+      width: 60%;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      margin: auto;
+
+      & li {
+        margin: 0 10px;
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+
+    & ul li a:hover {
+      color: rgb(236, 59, 59);
+      font-size: 20px;
+      font-weight: 500;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cardHeader__desktop {
+    display: none;
+  }
+
+  .cardHeader__mbl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+
+    background: linear-gradient(60deg, $basic-color, $main-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    & a {
+      align-self: center;
+    }
+
+    & .logo {
+      height: 50px;
+    }
+
+    & img {
+      padding: 0 10px;
+      cursor: pointer;
+
+      &.logo_close {
+        width: 30px;
+        align-self: flex-end;
+        margin: 0 17px;
+      }
+    }
+  }
+
+
+  .modal-main {
+    display: flex;
+    flex-direction: column;
+
+    & a {
+      padding: 10px;
+      text-decoration: none;
+
+      &:hover {
+        font-size: 20px;
+        color: red;
+      }
+    }
+  }
+
+  .cardHeader nav ul {
+    display: flex;
+    flex-direction: column;
+  }
+}

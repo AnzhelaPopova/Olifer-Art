@@ -1,0 +1,6 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(60deg, rgb(229, 186, 193), rgb(251, 234, 237));
+  height: 50px;
+}/*# sourceMappingURL=Footer.css.map */
