@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Olifer-Art/static/css/main.15664c70.css",
-    "main.js": "/Olifer-Art/static/js/main.57f4da83.js",
+    "main.css": "/Olifer-Art/static/css/main.fcbdc5fb.css",
+    "main.js": "/Olifer-Art/static/js/main.27c82c16.js",
     "static/js/787.28cb0dcd.chunk.js": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js",
     "static/media/foto.png": "/Olifer-Art/static/media/foto.01fa779dcc3733b3d460.png",
     "static/media/logo.png": "/Olifer-Art/static/media/logo.f2124bd0ce18cf227ad0.png",
@@ -12,15 +12,16 @@
     "static/media/fon2.jpg": "/Olifer-Art/static/media/fon2.3d45b16cc99e833f8126.jpg",
     "static/media/fon3.jpg": "/Olifer-Art/static/media/fon3.cce0380bf1a14273c13e.jpg",
     "static/media/Nunito-Regular.ttf": "/Olifer-Art/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/CAT.png": "/Olifer-Art/static/media/CAT.3ac6a6b9b4d494980ee8.png",
     "static/media/map.png": "/Olifer-Art/static/media/map.7c0ca79fe49e88bcdb44.png",
     "static/media/close.png": "/Olifer-Art/static/media/close.89e01be2e7e9eeec4a59.png",
     "index.html": "/Olifer-Art/index.html",
-    "main.15664c70.css.map": "/Olifer-Art/static/css/main.15664c70.css.map",
-    "main.57f4da83.js.map": "/Olifer-Art/static/js/main.57f4da83.js.map",
+    "main.fcbdc5fb.css.map": "/Olifer-Art/static/css/main.fcbdc5fb.css.map",
+    "main.27c82c16.js.map": "/Olifer-Art/static/js/main.27c82c16.js.map",
     "787.28cb0dcd.chunk.js.map": "/Olifer-Art/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15664c70.css",
-    "static/js/main.57f4da83.js"
+    "static/css/main.fcbdc5fb.css",
+    "static/js/main.27c82c16.js"
   ]
 }
